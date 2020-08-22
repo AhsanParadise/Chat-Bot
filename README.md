@@ -4,7 +4,7 @@ Chatbot is a computer program that simulates a natural human conversation. Users
 
 
 ![alt text](https://github.com/AhsanParadise/Chat-Bot/blob/master/ScreenShot.png?raw=true)
-++++++++++++++
++++++++++++++++
 ++++++++++++++++++++
 ++++++++++++++++
 ++++++++++++++++++++++++
