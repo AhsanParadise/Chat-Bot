@@ -16,7 +16,7 @@
   </div>
 
 <h2 align="center"> <code>This repository inspired by Jayed Ahsan Saad.</h2>
-
+<br>
 ![alt text](https://github.com/AhsanParadise/Chat-Bot/blob/master/ScreenShot.png?raw=true)
 
   <div align="center">
