@@ -15,7 +15,7 @@
       alt="_time_stamp_" />
   </div>
 
-### <code>This repository inspired by Jayed Ahsan Saad.
+<h2> <code>This repository inspired by Jayed Ahsan Saad.</h2>
 
 ![alt text](https://github.com/AhsanParadise/Chat-Bot/blob/master/ScreenShot.png?raw=true)
 
